@@ -4,14 +4,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="shalubotz" src="https://img.shields.io/badge/shalubotz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/shalubotz"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-shalubotz?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/shalubotz">shalubotz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Shalubotz/Shalubotz?v=1)
   
 ### The Hard Method
 ```js
